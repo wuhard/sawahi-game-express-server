@@ -11,3 +11,7 @@
                       size和filter两参数可以省略   
 获取排行榜游戏列表：http://www.sawahigame.com/game-top?size=9&&filter=id,name  
                       size和filter两参数可以省略    
+
+
+数据库表数据路径
+./mysql
